@@ -1,5 +1,5 @@
 # LoadShedding_Scraper
-A scraper to tell you your load shedding status.
+A proof of concept scraper to tell you your load shedding status.
 
 Dependancies:
 
